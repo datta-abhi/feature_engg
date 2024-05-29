@@ -1,0 +1,3 @@
+statsmodels
+feature-engine
+category-encoders
